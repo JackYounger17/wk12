@@ -175,12 +175,13 @@ button:hover {
 }
 
 #lightbox .lb-caption{
-  color: white;
+  color: green;
   font-size: 40px;
 }
 
 #lightbox .lb-number {
-  color: white;
+  color: green;
   font-size: 30px;
   margin-top: 10px;
 }
+
